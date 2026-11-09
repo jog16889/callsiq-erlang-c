@@ -1,0 +1,12 @@
+{
+  "name": "callsiq-erlang-c",
+  "version": "1.0.0",
+  "description": "Erlang C para dimensionar centros de llamadas: agentes, nivel de servicio, ASA y ocupación. Sin dependencias.",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": { "test": "node test.js" },
+  "keywords": ["erlang", "erlang-c", "call-center", "contact-center", "workforce-management", "staffing", "teletrafico"],
+  "homepage": "https://callsiq.com/herramientas/calculadora-erlang-c-agentes/",
+  "author": "Joaquín Orozco (https://callsiq.com/autor/joaquin-orozco/)",
+  "license": "MIT"
+}
