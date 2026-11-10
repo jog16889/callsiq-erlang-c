@@ -9,6 +9,7 @@ authors:
 version: 1.0.0
 date-released: 2026-11-09
 license: MIT
+doi: 10.5281/zenodo.24104739
 repository-code: "https://github.com/jog16889/callsiq-erlang-c"
 url: "https://callsiq.com/herramientas/calculadora-erlang-c-agentes/"
 keywords:

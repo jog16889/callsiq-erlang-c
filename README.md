@@ -1,5 +1,7 @@
 # callsiq-erlang-c
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24104739.svg)](https://doi.org/10.5281/zenodo.24104739) [![npm](https://img.shields.io/npm/v/callsiq-erlang-c)](https://www.npmjs.com/package/callsiq-erlang-c)
+
 Erlang C para dimensionar un centro de llamadas: cuántos agentes hacen falta para cumplir un nivel de servicio, con la espera media (ASA), la probabilidad de espera y la ocupación. Es JavaScript sin dependencias que funciona en el navegador y en Node.
 
 Es el motor de la **[calculadora Erlang C de CallsIQ](https://callsiq.com/herramientas/calculadora-erlang-c-agentes/)**, que añade la interfaz, la tabla de escenarios y la explicación de cada resultado. Para usarla no hace falta instalar nada.
@@ -48,3 +50,7 @@ Dependency-free Erlang C for call center staffing: agents needed for a service l
 ## Licencia
 
 MIT © Joaquín Orozco · [CallsIQ](https://callsiq.com/)
+
+## Cómo citarlo
+
+Orozco, J. (2026). *callsiq-erlang-c: Erlang C para dimensionar centros de llamadas* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24104739
