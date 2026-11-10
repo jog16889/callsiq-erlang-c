@@ -1,0 +1,13 @@
+{
+  "title": "callsiq-erlang-c: Erlang C para dimensionar centros de llamadas",
+  "upload_type": "software",
+  "description": "<p>Implementación en JavaScript, sin dependencias, de Erlang B (por recursión) y Erlang C para dimensionar centros de llamadas: agentes necesarios para un objetivo de nivel de servicio, ASA, probabilidad de espera, ocupación y plantilla con shrinkage. Incluye pruebas contra valores de las tablas de Erlang. Es el motor de la calculadora Erlang C de CallsIQ.</p><p>Dependency-free JavaScript implementation of Erlang B (recursive) and Erlang C for call center staffing: agents needed for a service level target, ASA, probability of waiting, occupancy and headcount after shrinkage. Includes tests against Erlang table values. It is the engine of the CallsIQ Erlang C calculator.</p>",
+  "creators": [{"name": "Orozco, Joaquín", "affiliation": "CallsIQ"}],
+  "license": "MIT",
+  "keywords": ["Erlang C", "Erlang B", "call center", "contact center", "teletráfico", "teoría de colas", "workforce management", "staffing"],
+  "language": "spa",
+  "related_identifiers": [
+    {"identifier": "https://callsiq.com/herramientas/calculadora-erlang-c-agentes/", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://www.npmjs.com/package/callsiq-erlang-c", "relation": "isIdenticalTo", "scheme": "url"}
+  ]
+}
